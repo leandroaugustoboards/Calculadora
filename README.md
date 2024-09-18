@@ -41,10 +41,3 @@ Funções matemáticas: Para realizar cálculos mais complexos, você pode utili
 Contribuições
 Contribuições são bem-vindas! Se você encontrar algum bug ou tiver alguma sugestão, por favor, abra um issue ou faça um pull request no repositório.
 
-Observações:
-
-Adapte este README: Personalize este README para refletir as características específicas do seu projeto.
-Adicione mais detalhes: Inclua mais detalhes sobre cada arquivo e suas funcionalidades.
-Utilize formatação Markdown: Use a sintaxe Markdown para formatar o seu README de forma clara e organizada.
-Inclua exemplos: Forneça exemplos de uso para ajudar os usuários a entender como utilizar a calculadora.
-Com este README.md completo, você terá um guia claro e conciso para o seu projeto, facilitando a compreensão e o uso da sua calculadora.
